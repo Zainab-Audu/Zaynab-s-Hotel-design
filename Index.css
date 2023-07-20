@@ -286,7 +286,7 @@ p {
 /* Showcase section */
 
 #Showcase {
-  background: url("../Images/marten-bjork-n_IKQDCyrG0-unsplash.jpg");
+  background: url("./Images/marten-bjork-n_IKQDCyrG0-unsplash.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 50S0px;
@@ -321,7 +321,7 @@ p {
 #home-info .info-image {
   float: left;
   width: 50%;
-  background-image: url(../Images/istockphoto-1435229470-1024x1024.jpg);
+  background-image: url(./Images/istockphoto-1435229470-1024x1024.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100%;
