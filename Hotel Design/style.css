@@ -186,24 +186,10 @@ footer {
   background-color: brown;
 }
 
-#main-footer {
-  /* background: #333; */
-  /*text-align: center;
-  color: black;
-  padding: 10px;*/
-}
-
 a {
   color: #efefef;
   text-decoration: none;
 }
-
-/* 
-  h1,
-  h2,
-  h3 {
-    padding: 60px 0px;
-  } */
 
 p {
   margin: 10px 0;
